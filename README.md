@@ -93,9 +93,10 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [Arxiv 2022.05] | **M3ED** | Multi-modal Multi-scene Multi-label Emotional Dialogue | [[Paper](https://arxiv.org/abs/2205.10237)] |
 | [2020] | **CH-SIMS** | Chinese Single- and Multi-modal Sentiment Dataset | [[Paper](https://aclanthology.org/2020.acl-main.343/)] [[Code](https://github.com/thuiar/MMSA)] |
 | [2019] | **MUStARD** | Multimodal Utterances for Sarcasm and Irony | [[Paper](https://aclanthology.org/P19-1455/)] [[Code](https://github.com/Himanshu-sudo/MUStARD-dataset)] |
-| [2018] | **CMU-MOSEI** | Large-scale Dataset for Sentiment and Emotion Intensity | [[Dataset](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)] |
+| [2018] | **CMU-MOSEI** | Large-scale Dataset for Sentiment and Emotion Intensity | [[Dataset](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)][[Paper](https://aclanthology.org/P18-1208.pdf)] |
 | [2018] | **MELD** | Multimodal EmotionLines Dataset (Friends TV show) | [[Paper](https://arxiv.org/pdf/1810.02508)] [[Code](https://github.com/declare-lab/MELD)] |
 | [2018] | **PMEmo** | Music Emotion Recognition with Physiological Signals | [[Paper](https://dl.acm.org/doi/10.1145/3206025.3206037)] [[Code](https://github.com/HuiZhangDB/PMEmo)] |
+| [2017] | **CMU-MOSI** | Large-scale Dataset for Sentiment and Emotion Intensity  | [[Code](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)][Paper](https://aclanthology.org/D17-1115.pdf) |
 | [2017] | **SEED-IV** | EEG Dataset for Emotion Recognition (SJTU) | [[Code](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
 | [2015] | **SEED** | EEG Dataset for Emotion Recognition (SJTU) | [[Code](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
 | [2011] | **DEAP** | Dataset for Emotion Analysis using Physiological signals | [[Paper](https://ieeexplore.ieee.org/document/5871728)] |
