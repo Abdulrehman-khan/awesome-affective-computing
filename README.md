@@ -247,8 +247,19 @@ This repository is a curated collection of research papers, datasets, and toolki
 - [WACV 2026] **Exploring Automated Recognition of Instructional Activity from Classroom Data** | [[Paper](https://arxiv.org/pdf/2512.00087v1)]
 - [Arxiv 2025.11] **Detecting Emotional Dynamic Trajectories: Evaluation for Emotional Support** | [[Paper](https://arxiv.org/pdf/2511.09003v1)] [[Project](https://ruochoxio.github.io/ETrajEval/)]
 - [Arxiv 2025.03] **Automated UX Insights from User Research Videos (Facial + Sentiment)** | [[Paper](https://arxiv.org/pdf/2503.22510v1)]
-- [Arxiv 2024.06] **The MuSe 2024 Multimodal Sentiment Analysis Challenge** | [[Paper](https://arxiv.org/pdf/2406.07753v1)] [[Code](https://github.com/amirip/MuSe-2024)]
 - [TVCG 2024] **Affective Visualization Design: Leveraging Emotional Impact of Data** | [[Paper](https://ieeexplore.ieee.org/document/10301796)]
+### 🏆 MuSe Challenge Series
+- [MuSe 2025] **The 6th Multimodal Sentiment Analysis Workshop and Challenge** | [[Website](https://www.muse-challenge.org/)]
+- [MuSe 2024] **The 5th Multimodal Sentiment Analysis Challenge and Workshop: Social Perception and Humor** | [[Website](https://sites.google.com/view/muse-2024/muse-2024)] [[Paper](https://arxiv.org/pdf/2406.07753v1)] [[Code](https://github.com/amirip/MuSe-2024)]
+- [MuSe 2023] **The 4th Multimodal Sentiment Analysis Challenge and Workshop: Mimicked Emotions, Humour and Personalisation** | [[Website](https://www.muse-challenge.org/)] [[Paper](https://arxiv.org/abs/2305.03369)]
+- [MuSe 2022] **The Multimodal Sentiment Analysis Challenge: Humor, Emotional Reactions, and Stress** | [[Website](https://sites.google.com/view/muse2022/muse2022)]
+- [MuSe 2021] **The Multimodal Sentiment Analysis Challenge: Sentiment, Emotion, Physiological-Emotion, and Stress** | [[Website](https://sites.google.com/view/muse-2021?authuser=0)]
+- [MuSe 2020] **The Multimodal Sentiment Challenge in Real-life Media** | [[Website](https://sites.google.com/view/muse2020?authuser=0)]
+
+### 🏆 MER Challenge Series
+- [MER 2025] **Multimodal Emotion Recognition Challenge 2025: Affective Computing Meets LLMs** | [[Website](https://zeroqiaoba.github.io/MER2025-website/)]
+- [MER 2024] **Multimodal Emotion Recognition Challenge 2024: Semi-supervised Learning & Open-Vocabulary** | [[Website](https://zeroqiaoba.github.io/MER2024-website/)]
+- [MER 2023] **Multimodal Emotion Recognition Challenge 2023: Multi-label Learning & Noise Robustness** | [[Website](http://merchallenge.cn/mer2023)]
 
 ---
 
