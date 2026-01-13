@@ -24,13 +24,13 @@ This repository is a curated collection of research papers, datasets, and toolki
 ---
 
 ## 📑 Table of Contents
-- [📚 Surveys & Reviews](#-surveys--reviews)
-- [📊 Datasets & Benchmarks](#-datasets--benchmarks)
-- [🧠 Multimodal Emotion Recognition (MER) & Perception](#-multimodal-emotion-recognition-mer--perception)
-- [🔍 Emotion Understanding & Reasoning](#-emotion-understanding--reasoning)
-- [🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)](#-emotional-intelligence-in-large-models-llmmllmallm)
-- [🗣️ Affective Generation & Synthesis](#-affective-generation--synthesis)
-- [🛠️ Toolkits & Challenges](#-toolkits--challenges)
+- [📚 Surveys & Reviews](#surveys--reviews)
+- [📊 Datasets and Benchmarks](#datasets-and-benchmarks)
+- [🧠 Multimodal Emotion Recognition (MER) & Perception](#multimodal-emotion-recognition-mer--perception)
+- [🔍 Emotion Understanding & Reasoning](#emotion-understanding--reasoning)
+- [🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)](#emotional-intelligence-in-large-models-llmmllmallm)
+- [🗣️ Affective Generation & Synthesis](#affective-generation--synthesis)
+- [🛠️ Toolkits & Challenges](#toolkits--challenges)
 
 ---
 
