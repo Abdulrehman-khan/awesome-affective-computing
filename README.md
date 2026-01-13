@@ -26,9 +26,9 @@ This repository is a curated collection of research papers, datasets, and toolki
 ## 📑 Table of Contents
 - [📚 Surveys & Reviews](#surveys-reviews)
 - [📊 Datasets and Benchmarks](#datasets-benchmarks)
-- [🧠 Multimodal Emotion Recognition (MER) & Perception](#mer-perception)
-- [🔍 Emotion Understanding & Reasoning](#emotion-understanding)
 - [🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)](#emotional-intelligence)
+- [🔍 Emotion Understanding & Reasoning](#emotion-understanding)
+- [🧠 Multimodal Emotion Recognition (MER) & Perception](#mer-perception)
 - [🗣️ Affective Generation & Synthesis](#affective-generation)
 - [🛠️ Toolkits & Challenges](#toolkits-challenges)
 
@@ -131,84 +131,6 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [ECCV 2024] | **Affective Visual Dialog** | Large-Scale Benchmark for Emotional Reasoning (2023.08) | [[Paper](https://arxiv.org/pdf/2308.16349)] [[Code](https://affective-visual-dialog.github.io/)] |
 ---
 
-<a id="mer-perception"></a>
-## 🧠 Multimodal Emotion Recognition (MER) & Perception
-
-### MER & MSA (Signal-based Fusion)
-- [Arxiv 2025.12] **Multimodal Functional Maximum Correlation for Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2512.23076v1)] [[Code](https://github.com/DY9910/MFMC)]
-- [Arxiv 2025.12] **Pioneering MER in the Era of Large Models: From Closed Sets to Open Vocabularies** | [[Paper](https://arxiv.org/abs/2512.20938)]
-- [Arxiv 2025.10] **Calibrating Multimodal Consensus for Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2510.20256v1)] [[Code](https://github.com/gw-zhong/CMC)]
-- [Arxiv 2025.10] **MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis** | [[Paper](https://arxiv.org/pdf/2510.11579v1)] [[Code](https://github.com/HongyuZhu-s/MS-Mix)]
-- [Arxiv 2025.08] **A Trustworthy Method for Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2508.07625v1)]
-- [Arxiv 2025.08] **Hierarchical MoE: Continuous MER with Incomplete Inputs** | [[Paper](https://arxiv.org/pdf/2508.02133v4)]
-- [Arxiv 2025.08] **Multimodal Video Emotion Recognition with Reliable Reasoning Priors** | [[Paper](https://arxiv.org/pdf/2508.03722v1)]
-- [TAC 2025] **VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2208.11450)] [[Code](https://github.com/MIntelligence-Group/MMEmoRec)]
-- [Arxiv 2025.06] **Leveraging CLIP Encoder for Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2506.00903v1)]
-- [Arxiv 2025.04] **Leveraging Label Potential for Enhanced Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2504.05158v1)]
-- [Arxiv 2025.03] **Feature-Based Dual Visual Feature Extraction Model for Compound MER** | [[Paper](https://arxiv.org/pdf/2503.17453v1)] [[Code](https://github.com/MyGitHub-ax/8th_ABAW)]
-- [Arxiv 2025.03] **MAVEN: Multi-modal Attention for Valence-Arousal Emotion Network** | [[Paper](https://arxiv.org/pdf/2503.12623v2)] [[Code](https://github.com/Vrushank-Ahire/MAVEN_8th_ABAW)]
-- [Arxiv 2025.02] **A Novel Approach for MER: Multimodal semantic information fusion** | [[Paper](https://arxiv.org/pdf/2502.08573v1)] [[Code](https://github.com/ZMW-DW/DeepMSI-MER)]
-- [CVPR 2025] **EMOE: Modality-Specific Enhanced Dynamic Emotion Experts** | [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_EMOE_Modality-Specific_Enhanced_Dynamic_Emotion_Experts_CVPR_2025_paper.pdf)] [[Code](https://github.com/fuyyyyy/EMOE)]
-- [ICASSP 2025] **A MoE Multimodal Graph Attention Network Framework for MER** | [[Paper](https://ieeexplore.ieee.org/document/10890390)] [[Code](https://github.com/tdfxlyh/MMGATEMO)]
-- [IJCV 2025] **Noise-Resistant Multimodal Transformer for Emotion Recognition** | [[Paper](https://doi.org/10.1007/s11263-024-02304-3)]
-- [Arxiv 2024.10] **OV-MER: Towards Open-Vocabulary Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2410.01495)] [[Code](https://github.com/zeroQiaoba/AffectGPT)]
-- [Arxiv 2024.09] **Early Joint Learning of Emotion Information Makes MLLM Understand You Better** | [[Paper](https://arxiv.org/pdf/2409.18971v1)]
-- [Arxiv 2024.09] **Hierarchical Hypercomplex Network for Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2409.09194v2)] [[Code](https://github.com/ispamm/MHyEEG)]
-- [TPAMI 2024] **COLD Fusion: Uncertainty-Aware Multimodal Emotion Recognition** | [[Paper](https://ieeexplore.ieee.org/document/10287630)]
-- [ICASSP 2024] **RL-EMO: A Reinforcement Learning Framework for MER** | [[Paper](https://ieeexplore.ieee.org/document/10446459)] [[Code](https://github.com/zyh9929/RL-EMO)]
-- [AAAI 2024] **CAMEL: Capturing Metaphorical Alignment with Context Disentangling for MER** | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28787)]
-- [ICME 2024] **Smile: Spiking Multi-Modal Interactive Label-Guided Enhancement Network** | [[Paper](https://ieeexplore.ieee.org/abstract/document/10688152)]
-- [ACM MM 2023] **Graph to Grid: Learning Deep Representations for MER** | [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612074)] [[Code](https://github.com/Jinminbox/G2G)]
-- [ACM MM 2023] **Mining High-quality Samples from Raw Data for MER** | [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612862)]
-- [ACM MM 2023] **Building Robust Sentiment Recognition via Simple Multimodal Transformer** | [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612872)] [[Code](https://github.com/dingchaoyue/Multimodal-Emotion-Recognition-MER-and-MuSe-2023-Challenges)]
-- [NeurIPS 2023] **Incomplete Multimodality-Diffused Emotion Recognition** | [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/372cb7805eaccb2b7eed641271a30eec-Paper-Conference.pdf)] [[Code](https://github.com/mdswyz/IMDer)]
-- [CVPR 2023] **Decoupled Multimodal Distilling for Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2303.13802v1)] [[Code](https://github.com/mdswyz/DMD)]
-- [Arxiv 2022.11] **UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2211.11256v1)] [[Code](https://github.com/LeMei/UniMSE)]
-
-### Facial & Physiological Affective Perception
-- [Arxiv 2025.11] **Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis** | [[Paper](https://arxiv.org/pdf/2511.10254v1)] [[Code](https://github.com/RobitsG/Facial-R1)]
-- [Arxiv 2025.11] **Synheart Emotion: Privacy-Preserving On-Device ER from Biosignals** | [[Paper](https://arxiv.org/pdf/2511.06231v1)] [[Code](https://github.com/synheart-ai/synheart-emotion)]
-- [Arxiv 2025.09] **MuMTAffect: Framework for Personality and Emotion from Physiological Signals** | [[Paper](https://arxiv.org/pdf/2509.04254v1)] [[Code](https://github.com/itubrainlab/MuMTAffect)]
-- [Arxiv 2025.04] **Multimodal Representation Learning for Comprehensive Facial State Analysis** | [[Paper](https://arxiv.org/pdf/2504.10351v1)]
-- [TIP 2025] **PTH-Net: Dynamic Facial Expression Recognition Without Face Detection** | [[Paper](https://ieeexplore.ieee.org/document/10770138/)] [[Code](https://github.com/lm495455/PTH-Net)]
-- [ICASSP 2025] **Micro-expression Spotting based on Semantic-guided Deep Fusion Model** | [[Paper](https://ieeexplore.ieee.org/document/10888501)]
-- [ICASSP 2025] **Deeply Coupling EEG Signals and Eye Movements for Region-Aware ER** | [[Paper](https://ieeexplore.ieee.org/abstract/document/10888584)]
-- [TKDE 2025] **PURE: Personality-Coupled MTL for Aspect-Based Multimodal Sentiment Analysis** | [[Paper](https://ieeexplore.ieee.org/document/10731889)]
-- [TIP 2024] **Cross-Layer Contrastive Learning of Latent Semantics for Facial ER** | [[Paper](https://ieeexplore.ieee.org/document/10478291)]
-- [TIP 2024] **Relationship-Guided Knowledge Transfer for Class-Incremental Facial ER** | [[Paper](https://ieeexplore.ieee.org/document/10471300)]
-- [TVCG 2024] **Multimodal Physiological Analysis of Impact of Emotion on Cognitive Control in VR** | [[Paper](https://ieeexplore.ieee.org/document/10458371)]
-- [ACM MM 2023] **Multimodal Physiological Signals Fusion for Online Emotion Recognition** | [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612555)]
-- [TPAMI 2023] **Brain-Machine Coupled Learning Method for Facial Emotion Recognition** | [[Paper](https://ieeexplore.ieee.org/document/10073607)]
-- [TPAMI 2023] **Emotional Attention: From Eye Tracking to Computational Modeling** | [[Paper](https://ieeexplore.ieee.org/document/9761748)]
-- [IEEE 2021] **DEAP | Dataset for Emotion Analysis using Physiological signals** | [[Paper](https://ieeexplore.ieee.org/document/5871728)]
-
----
-
-<a id="emotion-understanding"></a>
-## 🔍 Emotion Understanding & Reasoning
-
-- [Arxiv 2026.01] **EC2ER: From Emotion Classification to Emotional Reasoning in LLMs** | [[Paper](https://arxiv.org/pdf/2601.01407v1)] [[Code](https://github.com/kernelism/EC2ER)]
-- [Arxiv 2025.11] **Enhancing Meme Emotion Understanding with Multi-Level Modality Enhancement** | [[Paper](https://arxiv.org/pdf/2511.11126v1)]
-- [Arxiv 2025.08] **Benchmarking and Bridging Emotion Conflicts for Multimodal Emotion Reasoning** | [[Paper](https://arxiv.org/pdf/2508.01181v1)]
-- [Arxiv 2025.08] **Resource-Limited Multimodal Sentiment Reasoning via CoT Distillation** | [[Paper](https://arxiv.org/pdf/2508.05234v1)] [[Code](https://github.com/123sghn/MulCoTRD)]
-- [TAC 2025] **RVISA: Reasoning and Verification for Implicit Sentiment Analysis** | [[Paper](https://arxiv.org/pdf/2407.02340)]
-- [TAC 2025] **Modeling Cognitive-Affective Processes With Appraisal and Reinforcement Learning** | [[Paper](https://arxiv.org/pdf/2309.06367)]
-- [Arxiv 2025.05] **Project Riley: Multi-Agent LLM Collaboration with Emotional Reasoning** | [[Paper](https://arxiv.org/pdf/2505.20521v1)]
-- [Arxiv 2025.05] **Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs** | [[Paper](https://arxiv.org/pdf/2505.22548v2)]
-- [Arxiv 2025.04] **DEEMO: De-identity Multimodal Emotion Recognition and Reasoning** | [[Paper](https://arxiv.org/pdf/2504.19549v1)]
-- [ACL 2025] **Listen, Watch, and Learn to Feel: Retrieval-Augmented Emotion Reasoning** | [[Paper](https://aclanthology.org/2025.findings-acl.590.pdf)]
-- [NAACL 2025] **Multi-Condition Guided Diffusion Network for Multimodal ER in Conversation** | [[Paper](https://aclanthology.org/2025.findings-naacl.177)]
-- [Arxiv 2024.11] **FAME-Net: Generative Emotion Cause Explanation in Multimodal Conversations** | [[Paper](https://arxiv.org/pdf/2411.02430v3)] [[Code](https://github.com/3222345200/FAME-Net)]
-- [Arxiv 2024.08] **Towards a Generative Approach for Emotion Detection and Reasoning** | [[Paper](https://arxiv.org/pdf/2408.04906v1)]
-- [IJCAI 2025] **ECR-Chain: Generative Models Better Emotion-Cause Reasoners through Chains** | [[Paper](https://arxiv.org/pdf/2405.10860)] [[Code](https://github.com/hzp3517/ECR-Chain)]
-- [CVPR 2024]**EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning** | [[Paper](https://arxiv.org/pdf/2404.16670)][[Code](https://github.com/aimmemotion/EmoVIT)]
-- [EMNLP 2024] **UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause** | [[Paper](https://aclanthology.org/2024.findings-emnlp.302/)] [[Code](https://github.com/LeMei/causal-unimeec)]
-- [EMNLP 2024] **Enhancing Emotion-Cause Pair Extraction via Center Event Detection** | [[Paper](https://aclanthology.org/2024.findings-emnlp.632.pdf)]
-- [ACM MM 2023] **Revisiting Disentanglement and Fusion on Modality and Context in MERC** | [[Paper](https://arxiv.org/pdf/2308.04502)]
-- [Arxiv 2023.06] **Explainable Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2306.15401v6)]
-
----
-
 <a id="emotional-intelligence"></a>
 ## 🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)
 
@@ -263,6 +185,84 @@ This repository is a curated collection of research papers, datasets, and toolki
 - [Neural Networks 2025] **DialogueLLM: Context and emotion knowledge-tuned LLMs for MERC** | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007828)]
 - [ICASSP 2025] **LLM supervised Pre-training for MER in Conversations** | [[Paper](https://arxiv.org/pdf/2501.11468)]
 - [COLING 2025] **LaERC-S: Improving LLM-based ER with Speaker Characteristics** | [[Paper](https://arxiv.org/pdf/2403.07260)] [[Code](https://github.com/bigcat-1/LaERC-S)]
+
+---
+
+<a id="emotion-understanding"></a>
+## 🔍 Emotion Understanding & Reasoning
+
+- [Arxiv 2026.01] **EC2ER: From Emotion Classification to Emotional Reasoning in LLMs** | [[Paper](https://arxiv.org/pdf/2601.01407v1)] [[Code](https://github.com/kernelism/EC2ER)]
+- [Arxiv 2025.11] **Enhancing Meme Emotion Understanding with Multi-Level Modality Enhancement** | [[Paper](https://arxiv.org/pdf/2511.11126v1)]
+- [Arxiv 2025.08] **Benchmarking and Bridging Emotion Conflicts for Multimodal Emotion Reasoning** | [[Paper](https://arxiv.org/pdf/2508.01181v1)]
+- [Arxiv 2025.08] **Resource-Limited Multimodal Sentiment Reasoning via CoT Distillation** | [[Paper](https://arxiv.org/pdf/2508.05234v1)] [[Code](https://github.com/123sghn/MulCoTRD)]
+- [TAC 2025] **RVISA: Reasoning and Verification for Implicit Sentiment Analysis** | [[Paper](https://arxiv.org/pdf/2407.02340)]
+- [TAC 2025] **Modeling Cognitive-Affective Processes With Appraisal and Reinforcement Learning** | [[Paper](https://arxiv.org/pdf/2309.06367)]
+- [Arxiv 2025.05] **Project Riley: Multi-Agent LLM Collaboration with Emotional Reasoning** | [[Paper](https://arxiv.org/pdf/2505.20521v1)]
+- [Arxiv 2025.05] **Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs** | [[Paper](https://arxiv.org/pdf/2505.22548v2)]
+- [Arxiv 2025.04] **DEEMO: De-identity Multimodal Emotion Recognition and Reasoning** | [[Paper](https://arxiv.org/pdf/2504.19549v1)]
+- [ACL 2025] **Listen, Watch, and Learn to Feel: Retrieval-Augmented Emotion Reasoning** | [[Paper](https://aclanthology.org/2025.findings-acl.590.pdf)]
+- [NAACL 2025] **Multi-Condition Guided Diffusion Network for Multimodal ER in Conversation** | [[Paper](https://aclanthology.org/2025.findings-naacl.177)]
+- [Arxiv 2024.11] **FAME-Net: Generative Emotion Cause Explanation in Multimodal Conversations** | [[Paper](https://arxiv.org/pdf/2411.02430v3)] [[Code](https://github.com/3222345200/FAME-Net)]
+- [Arxiv 2024.08] **Towards a Generative Approach for Emotion Detection and Reasoning** | [[Paper](https://arxiv.org/pdf/2408.04906v1)]
+- [IJCAI 2025] **ECR-Chain: Generative Models Better Emotion-Cause Reasoners through Chains** | [[Paper](https://arxiv.org/pdf/2405.10860)] [[Code](https://github.com/hzp3517/ECR-Chain)]
+- [CVPR 2024]**EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning** | [[Paper](https://arxiv.org/pdf/2404.16670)][[Code](https://github.com/aimmemotion/EmoVIT)]
+- [EMNLP 2024] **UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause** | [[Paper](https://aclanthology.org/2024.findings-emnlp.302/)] [[Code](https://github.com/LeMei/causal-unimeec)]
+- [EMNLP 2024] **Enhancing Emotion-Cause Pair Extraction via Center Event Detection** | [[Paper](https://aclanthology.org/2024.findings-emnlp.632.pdf)]
+- [ACM MM 2023] **Revisiting Disentanglement and Fusion on Modality and Context in MERC** | [[Paper](https://arxiv.org/pdf/2308.04502)]
+- [Arxiv 2023.06] **Explainable Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2306.15401v6)]
+
+---
+
+<a id="mer-perception"></a>
+## 🧠 Multimodal Emotion Recognition (MER) & Perception
+
+### MER & MSA (Signal-based Fusion)
+- [Arxiv 2025.12] **Multimodal Functional Maximum Correlation for Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2512.23076v1)] [[Code](https://github.com/DY9910/MFMC)]
+- [Arxiv 2025.12] **Pioneering MER in the Era of Large Models: From Closed Sets to Open Vocabularies** | [[Paper](https://arxiv.org/abs/2512.20938)]
+- [Arxiv 2025.10] **Calibrating Multimodal Consensus for Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2510.20256v1)] [[Code](https://github.com/gw-zhong/CMC)]
+- [Arxiv 2025.10] **MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis** | [[Paper](https://arxiv.org/pdf/2510.11579v1)] [[Code](https://github.com/HongyuZhu-s/MS-Mix)]
+- [Arxiv 2025.08] **A Trustworthy Method for Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2508.07625v1)]
+- [Arxiv 2025.08] **Hierarchical MoE: Continuous MER with Incomplete Inputs** | [[Paper](https://arxiv.org/pdf/2508.02133v4)]
+- [Arxiv 2025.08] **Multimodal Video Emotion Recognition with Reliable Reasoning Priors** | [[Paper](https://arxiv.org/pdf/2508.03722v1)]
+- [TAC 2025] **VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2208.11450)] [[Code](https://github.com/MIntelligence-Group/MMEmoRec)]
+- [Arxiv 2025.06] **Leveraging CLIP Encoder for Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2506.00903v1)]
+- [Arxiv 2025.04] **Leveraging Label Potential for Enhanced Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2504.05158v1)]
+- [Arxiv 2025.03] **Feature-Based Dual Visual Feature Extraction Model for Compound MER** | [[Paper](https://arxiv.org/pdf/2503.17453v1)] [[Code](https://github.com/MyGitHub-ax/8th_ABAW)]
+- [Arxiv 2025.03] **MAVEN: Multi-modal Attention for Valence-Arousal Emotion Network** | [[Paper](https://arxiv.org/pdf/2503.12623v2)] [[Code](https://github.com/Vrushank-Ahire/MAVEN_8th_ABAW)]
+- [Arxiv 2025.02] **A Novel Approach for MER: Multimodal semantic information fusion** | [[Paper](https://arxiv.org/pdf/2502.08573v1)] [[Code](https://github.com/ZMW-DW/DeepMSI-MER)]
+- [CVPR 2025] **EMOE: Modality-Specific Enhanced Dynamic Emotion Experts** | [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_EMOE_Modality-Specific_Enhanced_Dynamic_Emotion_Experts_CVPR_2025_paper.pdf)] [[Code](https://github.com/fuyyyyy/EMOE)]
+- [ICASSP 2025] **A MoE Multimodal Graph Attention Network Framework for MER** | [[Paper](https://ieeexplore.ieee.org/document/10890390)] [[Code](https://github.com/tdfxlyh/MMGATEMO)]
+- [IJCV 2025] **Noise-Resistant Multimodal Transformer for Emotion Recognition** | [[Paper](https://doi.org/10.1007/s11263-024-02304-3)]
+- [Arxiv 2024.10] **OV-MER: Towards Open-Vocabulary Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2410.01495)] [[Code](https://github.com/zeroQiaoba/AffectGPT)]
+- [Arxiv 2024.09] **Early Joint Learning of Emotion Information Makes MLLM Understand You Better** | [[Paper](https://arxiv.org/pdf/2409.18971v1)]
+- [Arxiv 2024.09] **Hierarchical Hypercomplex Network for Multimodal Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2409.09194v2)] [[Code](https://github.com/ispamm/MHyEEG)]
+- [TPAMI 2024] **COLD Fusion: Uncertainty-Aware Multimodal Emotion Recognition** | [[Paper](https://ieeexplore.ieee.org/document/10287630)]
+- [ICASSP 2024] **RL-EMO: A Reinforcement Learning Framework for MER** | [[Paper](https://ieeexplore.ieee.org/document/10446459)] [[Code](https://github.com/zyh9929/RL-EMO)]
+- [AAAI 2024] **CAMEL: Capturing Metaphorical Alignment with Context Disentangling for MER** | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28787)]
+- [ICME 2024] **Smile: Spiking Multi-Modal Interactive Label-Guided Enhancement Network** | [[Paper](https://ieeexplore.ieee.org/abstract/document/10688152)]
+- [ACM MM 2023] **Graph to Grid: Learning Deep Representations for MER** | [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612074)] [[Code](https://github.com/Jinminbox/G2G)]
+- [ACM MM 2023] **Mining High-quality Samples from Raw Data for MER** | [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612862)]
+- [ACM MM 2023] **Building Robust Sentiment Recognition via Simple Multimodal Transformer** | [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612872)] [[Code](https://github.com/dingchaoyue/Multimodal-Emotion-Recognition-MER-and-MuSe-2023-Challenges)]
+- [NeurIPS 2023] **Incomplete Multimodality-Diffused Emotion Recognition** | [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/372cb7805eaccb2b7eed641271a30eec-Paper-Conference.pdf)] [[Code](https://github.com/mdswyz/IMDer)]
+- [CVPR 2023] **Decoupled Multimodal Distilling for Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2303.13802v1)] [[Code](https://github.com/mdswyz/DMD)]
+- [Arxiv 2022.11] **UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition** | [[Paper](https://arxiv.org/pdf/2211.11256v1)] [[Code](https://github.com/LeMei/UniMSE)]
+
+### Facial & Physiological Affective Perception
+- [Arxiv 2025.11] **Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis** | [[Paper](https://arxiv.org/pdf/2511.10254v1)] [[Code](https://github.com/RobitsG/Facial-R1)]
+- [Arxiv 2025.11] **Synheart Emotion: Privacy-Preserving On-Device ER from Biosignals** | [[Paper](https://arxiv.org/pdf/2511.06231v1)] [[Code](https://github.com/synheart-ai/synheart-emotion)]
+- [Arxiv 2025.09] **MuMTAffect: Framework for Personality and Emotion from Physiological Signals** | [[Paper](https://arxiv.org/pdf/2509.04254v1)] [[Code](https://github.com/itubrainlab/MuMTAffect)]
+- [Arxiv 2025.04] **Multimodal Representation Learning for Comprehensive Facial State Analysis** | [[Paper](https://arxiv.org/pdf/2504.10351v1)]
+- [TIP 2025] **PTH-Net: Dynamic Facial Expression Recognition Without Face Detection** | [[Paper](https://ieeexplore.ieee.org/document/10770138/)] [[Code](https://github.com/lm495455/PTH-Net)]
+- [ICASSP 2025] **Micro-expression Spotting based on Semantic-guided Deep Fusion Model** | [[Paper](https://ieeexplore.ieee.org/document/10888501)]
+- [ICASSP 2025] **Deeply Coupling EEG Signals and Eye Movements for Region-Aware ER** | [[Paper](https://ieeexplore.ieee.org/abstract/document/10888584)]
+- [TKDE 2025] **PURE: Personality-Coupled MTL for Aspect-Based Multimodal Sentiment Analysis** | [[Paper](https://ieeexplore.ieee.org/document/10731889)]
+- [TIP 2024] **Cross-Layer Contrastive Learning of Latent Semantics for Facial ER** | [[Paper](https://ieeexplore.ieee.org/document/10478291)]
+- [TIP 2024] **Relationship-Guided Knowledge Transfer for Class-Incremental Facial ER** | [[Paper](https://ieeexplore.ieee.org/document/10471300)]
+- [TVCG 2024] **Multimodal Physiological Analysis of Impact of Emotion on Cognitive Control in VR** | [[Paper](https://ieeexplore.ieee.org/document/10458371)]
+- [ACM MM 2023] **Multimodal Physiological Signals Fusion for Online Emotion Recognition** | [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612555)]
+- [TPAMI 2023] **Brain-Machine Coupled Learning Method for Facial Emotion Recognition** | [[Paper](https://ieeexplore.ieee.org/document/10073607)]
+- [TPAMI 2023] **Emotional Attention: From Eye Tracking to Computational Modeling** | [[Paper](https://ieeexplore.ieee.org/document/9761748)]
+- [IEEE 2021] **DEAP | Dataset for Emotion Analysis using Physiological signals** | [[Paper](https://ieeexplore.ieee.org/document/5871728)]
 
 ---
 
