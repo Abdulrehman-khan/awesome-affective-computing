@@ -1,7 +1,25 @@
-# Awesome Affective Computing（Emotional Intelligence）
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Affective Computing (Emotional Intelligence)
 
-A curated list of research papers, datasets, and tools for **Emotional Intelligence (EI)**. Tracking the journey from signal-based perception to LLM-driven reasoning.
+<div align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Yorkson-huang/awesome-affective-computing/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Yorkson-huang/awesome-affective-computing/graphs/commit-activity)
+
+**"Teaching Machines to Sense, Think, and Feel."**
+
+</div>
+
+---
+
+> *"If we want computers to be genuinely intelligent and to interact naturally with us, we must give them the ability to recognize, understand, even to have and express emotions."*  
+> —— **Rosalind Picard**, *Affective Computing (1997)*
+
+## 🌟 Introduction
+
+**Affective Computing (AC)** is an interdisciplinary field spanning computer science, psychology, and cognitive science. As AI evolves from discriminative tasks to generative intelligence, the field is undergoing a significant paradigm shift: moving from **Signal-based Perception** (recognizing patterns in face, voice, and physiology) to **LLM-driven Emotional Reasoning** (understanding context, empathy, and causal logic).
+
+This repository is a curated collection of research papers, datasets, and toolkits designed to track this evolution. It serves as a comprehensive roadmap for researchers exploring how Large Language Models (LLMs) and Multimodal models are redefining the boundaries of **Artificial Emotional Intelligence (AEI)**.
 
 ---
 
