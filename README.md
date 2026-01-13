@@ -240,4 +240,4 @@ A curated list of research papers, datasets, and tools for **Emotional Intellige
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YourGitHubUser/Awesome-Emotional-Intelligence&type=Date)](https://star-history.com/#YourGitHubUser/Awesome-Emotional-Intelligence&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Yorkson-huang/awesome-affective-computing&type=Date)](https://star-history.com/#Yorkson-huang/awesome-affective-computing&Date)
