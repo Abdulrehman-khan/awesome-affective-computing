@@ -54,7 +54,7 @@ A curated list of research papers, datasets, and tools for **Emotional Intellige
 | [Arxiv 2025.03] | **EVA-MED** | Enhanced Valence-Arousal Multimodal Emotion Dataset | [[Paper](https://arxiv.org/pdf/2503.16584v1)] |
 | [ACL 2025] | **ACE** | Akan Cinematic Emotions Dataset for Low-resource Languages | [[Paper](https://arxiv.org/abs/2502.10973)] [[Code](https://github.com/sasudavid/AkaCE)] |
 | [2024] | **MER2024** | Multimodal Emotion Recognition Challenge 2024 | [[Dataset](https://huggingface.co/datasets/MERChallenge/MER2024)] |
-| [TVCG 2024] | **An Immersive and Interactive VR Dataset to Elicit Emotions** | [[Paper](https://ieeexplore.ieee.org/document/10670431)] |
+| [TVCG 2024] | **An Immersive and Interactive VR Dataset to Elicit Emotions** | |[[Paper](https://ieeexplore.ieee.org/document/10670431)] |
 | [2023] | **MER2023** | Multimodal Emotion Recognition Challenge 2023 | [[Dataset](https://huggingface.co/datasets/MERChallenge/MER2023)] |
 | [TVCG 2023] | **HEADSET** | Human Emotion Awareness under Partial Occlusions | [[Paper](https://ieeexplore.ieee.org/document/10269730)] |
 | [TPAMI 2023] | **EgoCom** | Multi-Person Multimodal Egocentric Communications Dataset | [[Paper](https://ieeexplore.ieee.org/document/9200754)] |
