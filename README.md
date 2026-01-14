@@ -331,12 +331,14 @@ This repository is a curated collection of research papers, datasets, and toolki
 - [Awesome-Emotion-Recognition-Reasoning](https://github.com/yuntaoshou/Awesome-Emotion-Reasoning)
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Yorkson-huang/awesome-affective-computing&type=Date)](https://star-history.com/#Yorkson-huang/awesome-affective-computing&Date)
-
 ## 🤝 Contributors
 
 <a href="https://github.com/Yorkson-huang/awesome-affective-computing/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Yorkson-huang/awesome-affective-computing" />
 </a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yorkson-huang/awesome-affective-computing&type=Date)](https://star-history.com/#Yorkson-huang/awesome-affective-computing&Date)
+
+
