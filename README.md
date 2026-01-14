@@ -334,3 +334,9 @@ This repository is a curated collection of research papers, datasets, and toolki
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Yorkson-huang/awesome-affective-computing&type=Date)](https://star-history.com/#Yorkson-huang/awesome-affective-computing&Date)
+
+## 🤝 Contributors
+
+<a href="https://github.com/Yorkson-huang/awesome-affective-computing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Yorkson-huang/awesome-affective-computing" />
+</a>
