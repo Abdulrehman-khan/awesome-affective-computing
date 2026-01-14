@@ -13,8 +13,8 @@ https://github.com/sindresorhus/awesome)
 
 ---
 
-> *"If we want computers to be genuinely intelligent and to interact naturally with us, we must give them the ability to recognize, understand, even to have and express emotions."*  
-> —— **Rosalind Picard**, *Affective Computing (1997)*
+> "If we want computers to be genuinely intelligent and to interact naturally with us, we must give them the ability to recognize, understand, even to have and express emotions."
+> <div align="right">—— <b>Rosalind Picard</b>, <i>Affective Computing (1997)</i></div>
 
 ## 🌟 Introduction
 
