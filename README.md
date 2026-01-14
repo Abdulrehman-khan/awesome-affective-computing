@@ -1,4 +1,4 @@
-# Awesome Affective Computing (Emotional Intelligence)
+# Awesome Affective Computing: Emotion Recognition, Reasoning & Intelligence
 
 <div align="center">
 
